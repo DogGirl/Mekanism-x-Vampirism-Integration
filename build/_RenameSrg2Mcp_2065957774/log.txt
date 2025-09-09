@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\misha\.gradle\caches\modules-2\files-2.1\curse.maven\emi-580555\6420945\d8049d6ec86befcd100a0ff0fc8ebc289f735997\emi-580555-6420945.jar, --output, C:\Users\misha\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\emi-580555\6420945_mapped_parchment_2023.09.03-1.20.1\emi-580555-6420945_mapped_parchment_2023.09.03-1.20.1.jar, --mcp, C:\Users\misha\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip, --strip-signatures'
+Classpath:
+ - C:\Users\misha\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\_RenameSrg2Mcp_2065957774
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\misha\.gradle\caches\modules-2\files-2.1\curse.maven\emi-580555\6420945\d8049d6ec86befcd100a0ff0fc8ebc289f735997\emi-580555-6420945.jar
+Output: C:\Users\misha\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\emi-580555\6420945_mapped_parchment_2023.09.03-1.20.1\emi-580555-6420945_mapped_parchment_2023.09.03-1.20.1.jar
+MCP:    C:\Users\misha\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

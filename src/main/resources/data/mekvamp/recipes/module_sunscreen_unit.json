@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EEE"
+  ],
+  "key": {
+    "A": { "item": "vampirism:blood_infused_iron_ingot" },
+    "B": { "item": "vampirism:injection_empty" },
+    "C": { "item": "vampirism:pure_blood_4" },
+    "D": { "item": "mekanism:module_base" },
+    "E": { "item": "mekanism:pellet_polonium" }
+  },
+  "result": {
+    "item": "mekvamp:module_auto_feeding_unit"
+  }
+}

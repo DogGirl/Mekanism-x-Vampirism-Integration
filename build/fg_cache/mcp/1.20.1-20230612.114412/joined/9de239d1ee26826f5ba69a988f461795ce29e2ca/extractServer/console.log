@@ -1,0 +1,13 @@
+JVM:         C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "bundler_extract", "--input", "C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\downloadServer\server.jar", "--output", "C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\extractServer\output.jar", "--jar-only"
+Classpath:   C:\Users\misha\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working Dir: C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\extractServer
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: BUNDLER_EXTRACT
+Input:   C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\downloadServer\server.jar
+Output:  C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\extractServer\output.jar
+All:     false
+JarOnly: true
+Libs:    false
+Extracted: versions/1.20.1/server-1.20.1.jar

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EEE"
+  ],
+  "key": {
+    "A": { "item": "mekanism:ingot_lead" },
+    "B": { "item": "mekanism:solar_neutron_activator" },
+    "C": { "item": "vampirism:blood_infused_iron_ingot" },
+    "D": { "item": "mekanism:module_base" },
+    "E": { "item": "mekanism:pellet_polonium" }
+  },
+  "result": {
+    "item": "mekvamp:module_sunscreen_unit"
+  }
+}

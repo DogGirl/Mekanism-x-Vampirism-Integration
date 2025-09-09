@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="mekvamp"
+version="1.0"
+displayName="Mekanism Vampirism Integration"
+authors="msdoggirl"
+[[dependencies.mekvamp]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mekvamp]]
+    modId="mekanism"
+    mandatory=true
+    versionRange="[10.4,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.mekvamp]]
+    modId="vampirism"
+    mandatory=true
+    versionRange="[1.10,)"
+    ordering="AFTER"
+    side="BOTH"

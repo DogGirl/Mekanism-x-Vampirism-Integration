@@ -1,0 +1,6 @@
+{
+  "module.mekvamp.sunscreen_unit" : "Solar Shielding Unit",
+  "module.mekvamp.auto_feeding_unit" : "Transfusion Unit",
+  "description.mekvamp.auto_feeding_unit" : "§cVampires Only§r - Utilizes a complex network of sensors to monitor vampiric thirst, and injects blood directly into the digestive system when required. Requires a fluid tank filled with fresh blood in inventory.",
+  "description.mekvamp.sunscreen_unit" : "§cVampires Only§r - Adds experimental plating to the Meka-suit that dynamically filters out the wavelengths of solar radiation that are harmful to vampriric genes, at the cost of suit energy."
+}

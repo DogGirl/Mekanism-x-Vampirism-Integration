@@ -1,0 +1,6 @@
+JVM:         C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe
+JVM Args:    
+Run Args:    "--client", "C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\stripClient\output.jar", "--server", "C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\stripServer\output.jar", "--ann", "1.20.1", "--output", "C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\merge\output.jar", "--inject", "false"
+Classpath:   C:\Users\misha\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.7\mergetool-1.1.7-fatjar.jar
+Working Dir: C:\Users\misha\Desktop\Java\Mekanism X Vampirism\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9de239d1ee26826f5ba69a988f461795ce29e2ca\merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
